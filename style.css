@@ -1,0 +1,9 @@
+.img{
+    margin: 0 auto;
+    width: 60%;
+    height: 75vh;
+    background-image: url('imgtab.png');
+    background-repeat: no-repeat;
+    border: 3px solid black;
+    margin-top: 50px;
+}
